@@ -21,7 +21,7 @@ Aplicació mòbil desenvolupada amb **React Native** i **Expo** per al projecte 
 1. **Clonar el repositori**
 
    ```bash
-   git clone https://github.com/USUARI/semprehisom-app.git
+   git clone https://github.com/draudediaz/semprehisom-app.git
    cd semprehisom-app
    ```
 
@@ -41,10 +41,6 @@ Aplicació mòbil desenvolupada amb **React Native** i **Expo** per al projecte 
 
    - 📱 iOS: [Expo Go a l’App Store](https://apps.apple.com/app/expo-go/id982107779)
    - 📱 Android: [Expo Go a Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
-
-## 📸 Captures de pantalla
-
-(Afegir imatges de la interfície aquí)
 
 ## 📄 Llicència
 
